@@ -36,4 +36,9 @@ class MainActivity : AppCompatActivity() {
             else -> super.onOptionsItemSelected(item)
         }
     }
+
+    // Testing building Bundle with Bitrise
+    // git update-index --chmod=+x gradlew
+    // https://stackoverflow.com/questions/51752706/gradlew-permission-denied-when-deploying-a-jhipster-5-1-0-project-on-gitlab
+
 }
