@@ -41,4 +41,8 @@ class MainActivity : AppCompatActivity() {
     // git update-index --chmod=+x gradlew
     // https://stackoverflow.com/questions/51752706/gradlew-permission-denied-when-deploying-a-jhipster-5-1-0-project-on-gitlab
 
+    // Adding Bitrise webhook
+    // Build on PR/ commit
+    // https://devcenter.bitrise.io/webhooks/adding-a-github-webhook/
+
 }
